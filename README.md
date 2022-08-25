@@ -21,16 +21,18 @@ Then, create a file for each Language you need, with the same name, plus the lan
 ## Examples
 
 **Messages.pt.resx** (for Portuguese translation)
-WELCOME			Bem vindo!
-GOOD_MORNING	Bom dia!
-GOOD_EVENING	Boa tarde!
-GOOD_NIGHT		Boa noite!
+WELCOME|Bem vindo!
+--|--
+GOOD_MORNING|Bom dia!
+GOOD_EVENING|Boa tarde!
+GOOD_NIGHT|Boa noite!
 
 **Messages.de.resx** (for German translation)
-WELCOME			Willkomen!
-GOOD_MORNING	Guten Morgen!
-GOOD_EVENING	Guten Abend!
-GOOD_NIGHT		Gute Nacht!
+WELCOME|Willkomen!
+--|--
+GOOD_MORNING|Guten Morgen!
+GOOD_EVENING|Guten Abend!
+GOOD_NIGHT|Gute Nacht!
 
 # Using translations
 Don't worry, just refer the texts in the class/keys.
