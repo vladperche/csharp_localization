@@ -9,10 +9,11 @@ In this case, just remember to change the Class to Public.
 ## Example
 
 **Messages.resx**
-WELCOME			Welcome!
-GOOD_MORNING	Goog morning!
-GOOD_EVENING	Good evening!
-GOOD_NIGHT		Good night!
+WELCOME|Welcome!
+--|--
+GOOD_MORNING|Goog morning!
+GOOD_EVENING|Good evening!
+GOOD_NIGHT|Good night!
 
 # Translations
 Then, create a file for each Language you need, with the same name, plus the languague code, and use the same Keys that are in the original file
